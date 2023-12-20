@@ -1,0 +1,14 @@
+/home/vtie/LJX_OpenCV/calibration/left1.jpg
+/home/vtie/LJX_OpenCV/calibration/left2.jpg
+/home/vtie/LJX_OpenCV/calibration/left3.jpg
+/home/vtie/LJX_OpenCV/calibration/left4.jpg
+/home/vtie/LJX_OpenCV/calibration/left5.jpg
+/home/vtie/LJX_OpenCV/calibration/left06.jpg
+/home/vtie/LJX_OpenCV/calibration/left07.jpg
+/home/vtie/LJX_OpenCV/calibration/left08.jpg
+/home/vtie/LJX_OpenCV/calibration/left09.jpg
+/home/vtie/LJX_OpenCV/calibration/left10.jpg
+/home/vtie/LJX_OpenCV/calibration/left11.jpg
+/home/vtie/LJX_OpenCV/calibration/left12.jpg
+/home/vtie/LJX_OpenCV/calibration/left13.jpg
+/home/vtie/LJX_OpenCV/calibration/left14.jpg
